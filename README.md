@@ -19,7 +19,7 @@ Welcome to the Dictionary Project! This application allows you to easily find th
 1. **Download the ZIP File**:
    - Click on the green "Code" button at the top right of the repository page.
    - Select "Download ZIP".
-   - Alternatively, you can clone the repository using the command: `git clone https://github.com/yourusername/dictionary-project.git`
+   - Alternatively, you can clone the repository using the command: `git clone https://github.com/68rajat68/dictionary-project.git`
 
 2. **Extract the ZIP File**:
    - Extract the downloaded ZIP file to a folder on your computer.
